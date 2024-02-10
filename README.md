@@ -8,4 +8,4 @@ Added a text locally
 
 Added a text to newbranch
 
-Resolve a conflict
+Added a local conflict
